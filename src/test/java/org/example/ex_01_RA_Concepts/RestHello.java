@@ -1,5 +1,7 @@
 package org.example.ex_01_RA_Concepts;
 
+import io.restassured.RestAssured;
+
 public class RestHello {
     public static void main(String[] args) {
 
